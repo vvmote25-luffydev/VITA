@@ -1,0 +1,5 @@
+# Optional packages for AI food-image classification only.
+transformers
+# Install a compatible PyTorch build for your system from https://pytorch.org/get-started/locally/
+torch
+Pillow
